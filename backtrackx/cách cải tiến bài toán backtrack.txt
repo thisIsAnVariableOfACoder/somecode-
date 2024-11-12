@@ -1,0 +1,5 @@
+cách cải tiến bài toán backtrack
+chưa cải tiến: sinh ra tất cả các dãy va kiểm tra dãy đúng hay sai
+cai tiến 1: sinh ra tất cả các dãy đúng, chi cần kiểm tra kết quả
+cai tiến 2: 1 dãy đi đến giữa không tối ưu bằng dãy đi đến cuối thì bỏ
+cai tiến 3: dãy nào sai thì bỏ, chỉ lấy dãy min/max

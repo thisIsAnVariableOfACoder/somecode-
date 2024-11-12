@@ -1,0 +1,5 @@
+IF0D3:
+- tìm ngày thứ 2 đầu tiên để tìm ngày thứ 2 đầu tiên
+- tìm ngày CN gần nhất với ngày hiện tại
+- dùng thứ của ngày thứ 2 đầu tiên giảm xuống
+- dùng thứ của ngày CN cuối cùng cộng lên

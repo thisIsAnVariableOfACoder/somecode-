@@ -1,0 +1,27 @@
+2p x BS:
+4 solutions: Letters https://codeforces.com/problemset/problem/978/C
+4 solutions: Eugeny and Play List https://codeforces.com/problemset/problem/302/B
+4 solutions: Dress'em in Vests https://codeforces.com/problemset/problem/161/A
+x
+2 solutions: Binary Deque https://codeforces.com/problemset/problem/1692/E
+2 solutions: Kefa and Company https://codeforces.com/problemset/problem/580/B
+2 solutions: Points on Line https://codeforces.com/problemset/problem/251/A
+2 solutions: Books https://codeforces.com/problemset/problem/279/B
+2 solutions: Eating Candies https://codeforces.com/problemset/problem/1669/F
+2 solutions: Three Parts of the Array https://codeforces.com/problemset/problem/1006/C
+2 solutions: Traffic Light https://codeforces.com/problemset/problem/1744/C
+2 solutions: Con Đường Tùng Trúc https://oj.vnoi.info/problem/minroad
+4 solutions: Ternary String https://codeforces.com/problemset/problem/1354/B
+2 solutions: They Are Everywhere https://codeforces.com/problemset/problem/701/C
+2 solutions: Queries about less or equal elements https://codeforces.com/problemset/problem/600/B
+2 solutions: Roommate Agreement https://www.spoj.com/problems/CRAN02/
+4 solutions: Number of Pairs https://codeforces.com/problemset/problem/1538/C
+2-4 solutions: Pair of Topics: https://codeforces.com/problemset/problem/1324/D
+2 solutions: NEARR7F http://oj.codedream.edu.vn/problem/nearr7f
+2 solutions: NSHNG8B4 http://oj.codedream.edu.vn/problem/ns23g8b4
+2 solutions: Vasya and String https://codeforces.com/blog/entry/45018
+2 solutions: Good Subarrays (Easy Version) https://codeforces.com/contest/1736/problem/C1
+4 solutions: Sushi for Two https://codeforces.com/contest/1138/problem/A
+4 solutions: Another Problem on Strings https://codeforces.com/problemset/problem/165/C
+2 solutions: Number of Ways https://codeforces.com/problemset/problem/466/C
+2 solutions: Hossam and Friends https://codeforces.com/problemset/problem/1771/B

@@ -1,0 +1,9 @@
+Cho n thành phố, ban đầu đứng ở thành phố S.
+Cho ma trận n x n là quãng đường từ thành phố i đến j là a[i][j] (a[i][j] có thể khác nhau)
+Tìm cách để đi từ thành phố S ban đầu qua mỗi thành phố còn lại một lần sao cho tổng quãng đường là ngắn nhất có thể
+
+4 2
+0 3 2 4
+1 0 3 3
+4 2 0 1
+2 3 1 0

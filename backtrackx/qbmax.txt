@@ -1,0 +1,5 @@
+qbmax:
+chua cai tien: sinh tat ca cac day va kiem tra day dung hay sai
+cai tien 1: sinh ra tat ca cac day dung, chi can kiem tra ket qua
+*cai tien 2 (qbmax khong dung duoc): 1 day di den giua khong toi uu bang day di den cuoi thi bo
+cai tien 3: day nao sai thi bo, chi lay day min/max

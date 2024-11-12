@@ -1,0 +1,13 @@
+1. Tính xem ngày tháng hiện tại là ngày thứ mấy trong năm
+2. Chia làm 2 trường hợp:
+	- l r cùng âm dương -> 
+	- l r lệch âm dương
+3. Số chính phương luôn là tổng của dãy số lẻ liên tiếp bắt đầu từ 1
+	-> Hiệu 2 số chính phương luôn là tổng của dãy số lẻ liên tiếp
+	-> Dãy cấp số cộng lẻ công sai 2 
+	-> Chia 2 trường hợp:
+		+ Dãy độ dài lẻ -> Trung bình là lẻ
+		+ Dãy độ dài chẵn -> Trung bình là chẵn
+	-> Tìm ước của X
+4. BS
+5. DP/Backtrack

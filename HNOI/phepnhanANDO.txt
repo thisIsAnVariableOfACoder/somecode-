@@ -1,0 +1,19 @@
+calc(a, b) {
+	if b==0
+		return 1
+	temp= calc(a, b/2);
+	if b : 2 = 1
+		return temp*temp*a
+	else
+		return temp*temp
+
+
+
+calc(a, b) {
+	if b==1
+		return a
+	temp= calc(a, b/2);
+	if b : 2 = 1
+		return (temp + temp + a)%
+	else
+		return (temp + temp)%

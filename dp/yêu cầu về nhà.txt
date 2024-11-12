@@ -1,0 +1,5 @@
+Đọc hiểu code
+hiểu rõ hơn ý tưởng dp
+xem ytb cách tìm ra xâu con chung dài nhất
+Code backtrack để làm bài khuyến mãi
+Xem bài nào làm đc backtrack thì làm luôn
