@@ -1,0 +1,59 @@
+Leap Year Rule Recap:
+A year is divisible by 4 (basic rule).
+If a year is divisible by 100, it must also be divisible by 400 to be a leap year.
+Step-by-Step Process Using Arithmetic Sequence:
+To use an arithmetic sequence for this calculation, we will count all the leap years that are divisible by 4 and then subtract the exceptions (years divisible by 100 but not 400).
+
+Step 1: Leap years divisible by 4
+We know that the first leap year is 4, and the leap years continue every 4 years. So, we can calculate the leap years divisible by 4 between 1 and 2018.
+
+The formula for the nth term of an arithmetic sequence is:
+
+𝑎𝑛=𝑎1+(𝑛−1)⋅𝑑
+
+Where:
+
+𝑎1=4 (the first leap year),
+d=4 (the common difference between leap years).
+Now, we want to find the number of leap years from 4 up to 2016 (because 2016 is the last leap year before 2018). So, set an = 2016:
+
+2016=4+(n−1)⋅4
+
+Solving for n:
+
+2016−4=(n−1)⋅4
+2012=(n−1)⋅4
+n=504
+
+So, there are 504 leap years divisible by 4 from year 1 to 2016.
+
+Step 2: Subtract the years divisible by 100 but not 400
+Now, we need to subtract the leap years that are divisible by 100 but not by 400. These are not considered leap years.
+
+To find how many years between 1 and 2018 are divisible by 100:
+
+2018/100=20
+2018/100=20
+
+These 20 years are divisible by 100, but we need to exclude those divisible by 400. Let's calculate how many years between 1 and 2018 are divisible by 400:
+
+2018/400=5
+2018/400=5
+
+So, the number of years divisible by 100 but not 400 is:
+
+20 − 5 = 15
+
+Step 3: Final Calculation
+Now, we can calculate the total number of leap years:
+
+Leap years
+= 504 − 15 = 489
+
+Leap years=504−15=489
+Conclusion:
+Using the arithmetic sequence method, we find that there are 489 leap years between 1 and 2018, which matches the result we got using the formula.
+
+number of leap years between 1 and n
+int(n/4) - (int(n/100) - int(n/400))
+
